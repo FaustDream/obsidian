@@ -7,4 +7,3 @@
 ### codex CLI
 等价极端模式（完全不拦截）
 codex --dangerously-bypass-approvals-and-sandbox
-![[Pasted image 20260501010729.png]]

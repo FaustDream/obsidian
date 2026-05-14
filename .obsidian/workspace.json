@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "5d70e41557c40108",
+    "type": "split",
+    "children": [
+      {
+        "id": "18699a36d76adc1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "666ed691a8a538da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-技术与AI/开发手册/云枢开发手册/04-其他开发操作.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-其他开发操作"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cbecd53b84df2e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "93ccf7f174d33e2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53a1265b20e5b0e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "eed5bbb1cf2fee3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-技术与AI/开发手册/云枢开发手册/04-其他开发操作.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "04-其他开发操作 的大纲"
+            }
+          },
+          {
+            "id": "e206137f96a5d530",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "29abc769d31195f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3950506b1ac3418b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a756328dbf52989",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77e4efc182058c09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "主仓库/02-技术与AI/开发手册/云枢开发手册/01-常用业务规则方法.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01-常用业务规则方法 的反向链接列表"
+            }
+          },
+          {
+            "id": "0d47c490bbb85a2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "主仓库/02-技术与AI/开发手册/云枢开发手册/01-常用业务规则方法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "01-常用业务规则方法 的出链列表"
+            }
+          },
+          {
+            "id": "7744257a9c71fc4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8ca41489a33f98aa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": true,
+      "bases:新建数据库": true
+    }
+  },
+  "active": "666ed691a8a538da",
+  "lastOpenFiles": [
+    "02-技术与AI/开发手册/开发手册导航.md",
+    "02-技术与AI/开发手册/云枢开发手册/04-其他开发操作.md",
+    "02-技术与AI/开发手册/云枢开发手册/05普佳甘特图使用.md",
+    "02-技术与AI/开发手册/云枢开发手册/后端知识点和问题处理.md",
+    "02-技术与AI/开发手册/云枢开发手册/云枢后台服务器.md",
+    "02-技术与AI/开发手册/云枢开发手册/开发经验.md",
+    "02-技术与AI/开发手册/云枢开发手册/云枢前端自定义页面开发.md",
+    "02-技术与AI/开发手册/云枢开发手册/云枢系统接口.md",
+    "02-技术与AI/开发手册/云枢开发手册/01-常用业务规则方法.md",
+    "02-技术与AI/开发手册/云枢开发手册/03-OpenEngine代码.md",
+    "02-技术与AI/开发手册/云枢开发手册/02-JavaScript常见使用方法.md",
+    "04-生活/个人事务/账户密码.md",
+    "主仓库/04-生活/身心栖所/30天/第1天_2026-05-13.md",
+    "主仓库/02-技术与AI/开发手册/云枢开发手册/02-JavaScript常见使用方法.md",
+    "主仓库/04-生活/身心栖所/心理情感/HUMAN/1.0/HUMAN.md.baiduyun.uploading.cfg",
+    "主仓库/04-生活/身心栖所/心理情感/HUMAN/HUMAN.md.baiduyun.uploading.cfg",
+    "主仓库/04-生活/身心栖所/心理情感/自身调研.md.baiduyun.uploading.cfg",
+    "主仓库/04-生活/身心栖所/心理情感/能力外包给了工具久了自己变钝了.md.baiduyun.uploading.cfg",
+    "主仓库/04-生活/身心栖所/心理情感/职业规划.md.baiduyun.uploading.cfg",
+    "主仓库/04-生活/身心栖所/心理情感/对自己的看法.md.baiduyun.uploading.cfg",
+    "主仓库/04-生活/身心栖所/心理情感/HUMAN/3.0/青年成长困境与人生规划.md.baiduyun.uploading.cfg",
+    "主仓库/04-生活/身心栖所/心理情感/HUMAN/2.0/青年困境：重塑身心与事业.md.baiduyun.uploading.cfg",
+    "主仓库/04-生活/身心栖所/心理情感/HUMAN/2.0/HUMAN-3.0-Development-Assessment-Results.md.baiduyun.uploading.cfg",
+    "主仓库/04-生活/身心栖所/心理情感/HUMAN-整合分析/05-根因链与解锁序列.md.baiduyun.uploading.cfg",
+    "主仓库/01-收集箱/个人收集箱/codex得个性化使用方式.md",
+    "主仓库/03-工作/工作文档/劳务用工/劳务用工.md",
+    "主仓库/03-工作/工作文档/工作文档导航.md",
+    "主仓库/04-生活/身心栖所/365天/第365天_2027-05-12.md",
+    "主仓库/04-生活/身心栖所/365天/第364天_2027-05-11.md",
+    "主仓库/04-生活/身心栖所/365天/第363天_2027-05-10.md",
+    "主仓库/04-生活/身心栖所/365天/第362天_2027-05-09.md",
+    "主仓库/04-生活/身心栖所/365天/第361天_2027-05-08.md",
+    "主仓库/04-生活/身心栖所/365天/第360天_2027-05-07.md",
+    "主仓库/04-生活/身心栖所/365天/第359天_2027-05-06.md",
+    "主仓库/04-生活/身心栖所/365天/第358天_2027-05-05.md",
+    "主仓库/04-生活/身心栖所/365天/第357天_2027-05-04.md",
+    "主仓库/09-附件/82d4028dca4d38c310a048b3f72e2844.png",
+    "主仓库/09-附件/Pasted image 20260501010726.png",
+    "主仓库/09-附件/Pasted image 20260122222600.png",
+    "主仓库/09-附件/Pasted image 20260121211842.png",
+    "主仓库/09-附件/Pasted image 20260501010729.png",
+    "主仓库/09-附件/Pasted image 20260425211013.png"
+  ]
+}
