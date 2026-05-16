@@ -1,7 +1,11 @@
-存放在C:\Users\xxx\.codex\AGENTS.md
 # 全局 Agent 规则
 
 本文件用于约束自动化代理在本机工作区中的默认工作方式，并将 Superpowers 作为主工作流体系按需激活。
+
+## 环境配置（写死）
+
+- **文件编码**：`UTF-8`（写死，不可修改）
+- **PowerShell 路径**：`pwsh.exe`（PowerShell 7.6.1，写死，不可回退到 Windows PowerShell 5.1）
 
 ## 指令优先级
 
