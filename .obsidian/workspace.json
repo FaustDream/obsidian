@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18699a36d76adc1d",
+        "id": "ece268f346e3a1c3",
         "type": "tabs",
         "children": [
           {
-            "id": "666ed691a8a538da",
+            "id": "5a613963ff6d5dac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-收集箱/个人收集箱/codex得个性化使用方式.md",
+                "file": "04-生活/身心栖所/10-行动系统/每日三锚点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "codex得个性化使用方式"
+              "title": "每日三锚点"
             }
           }
         ]
@@ -53,13 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-收集箱/个人收集箱/codex得个性化使用方式.md",
+                "file": "02-技术与AI/云服务器/fishingKiln部署与同步/fishingKiln部署与同步说明.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "codex得个性化使用方式 的大纲"
+              "title": "fishingKiln部署与同步说明 的大纲"
             }
           },
           {
@@ -184,44 +184,48 @@
       "bases:新建数据库": true
     }
   },
-  "active": "666ed691a8a538da",
+  "active": "5a613963ff6d5dac",
   "lastOpenFiles": [
-    "01-收集箱/个人收集箱/AI思考.md",
-    "02-技术与AI/AI项目开发/AI对话提示词/AI开发之路/前端UI资源索引.md",
-    "02-技术与AI/云服务器/website-styles部署与同步说明.md",
-    "02-技术与AI/云服务器/qq_xiaoqi_bot部署说明.md",
-    "02-技术与AI/AI项目开发/AI对话提示词/AI开发之路/开发项目必需.md",
-    "02-技术与AI/AI项目开发/AI对话提示词/AI开发之路/AI回复废话治疗.md",
+    "04-生活/身心栖所/10-行动系统/30天行动记录/第4天_2026-05-16.md",
+    "04-生活/身心栖所/10-行动系统/30天行动记录/第3天_2026-05-15.md",
+    "04-生活/身心栖所/10-行动系统/30天行动记录/第5天_2026-05-17.md",
+    "04-生活/身心栖所/10-行动系统/30天行动记录/第6天_2026-05-18.md",
+    "04-生活/身心栖所/10-行动系统/30天行动记录/第2天_2026-05-14.md",
+    "04-生活/身心栖所/10-行动系统/30天行动记录/第1天_2026-05-13.md",
+    "02-技术与AI/10-AI项目开发/codebuddy/workbuddy自定义模型.md",
     "01-收集箱/个人收集箱/codex得个性化使用方式.md",
-    "01-收集箱/个人收集箱/README.md",
-    "02-技术与AI/Git/gitee凭据.md",
-    "02-技术与AI/Git/github凭据.md",
-    "02-技术与AI/AI编辑器/AI编辑器中遇到的问题处理.md",
-    "02-技术与AI/AI项目开发/AI对话提示词/AI开发之路/codex全局提示词优化.md",
-    "01-收集箱/工作收集箱/codex对话提示词.md",
-    "01-收集箱/工作收集箱/codex技能.md",
-    "01-收集箱/工作收集箱/README.md",
-    "01-收集箱/个人收集箱/Harness Engineering/harness engineering.md",
-    "02-技术与AI/AI项目开发/中国移动AI.md",
-    "02-技术与AI/AI项目开发/AI对话提示词/提示词导航.md",
-    "04-生活/个人事务/账户密码.md",
-    "02-技术与AI/开发手册/云枢开发手册/04-其他开发操作.md",
-    "02-技术与AI/开发手册/云枢开发手册/01-常用业务规则方法.md",
-    "02-技术与AI/开发手册/云枢开发手册/02-JavaScript常见使用方法.md",
-    "02-技术与AI/开发手册/云枢开发手册/03-OpenEngine代码.md",
-    "01-收集箱/个人收集箱/ui组件库.md",
-    "02-技术与AI/开发手册/开发手册导航.md",
-    "02-技术与AI/开发手册/云枢开发手册/05普佳甘特图使用.md",
-    "主仓库/04-生活/身心栖所/心理情感/HUMAN/1.0/HUMAN.md.baiduyun.uploading.cfg",
-    "主仓库/04-生活/身心栖所/心理情感/HUMAN/HUMAN.md.baiduyun.uploading.cfg",
-    "主仓库/04-生活/身心栖所/心理情感/自身调研.md.baiduyun.uploading.cfg",
-    "主仓库/04-生活/身心栖所/心理情感/能力外包给了工具久了自己变钝了.md.baiduyun.uploading.cfg",
-    "主仓库/04-生活/身心栖所/心理情感/职业规划.md.baiduyun.uploading.cfg",
-    "主仓库/04-生活/身心栖所/心理情感/对自己的看法.md.baiduyun.uploading.cfg",
-    "主仓库/04-生活/身心栖所/心理情感/HUMAN/3.0/青年成长困境与人生规划.md.baiduyun.uploading.cfg",
-    "主仓库/04-生活/身心栖所/心理情感/HUMAN/2.0/青年困境：重塑身心与事业.md.baiduyun.uploading.cfg",
-    "主仓库/04-生活/身心栖所/心理情感/HUMAN/2.0/HUMAN-3.0-Development-Assessment-Results.md.baiduyun.uploading.cfg",
-    "主仓库/04-生活/身心栖所/心理情感/HUMAN-整合分析/05-根因链与解锁序列.md.baiduyun.uploading.cfg",
+    "02-技术与AI/10-AI项目开发/codebuddy",
+    "02-技术与AI/云服务器/fishingKiln部署与同步/fishingKiln部署与同步说明.md",
+    "02-技术与AI/云服务器/fishingKiln部署与同步/00-站点仓库同步通用说明.md",
+    "02-技术与AI/云服务器/新手网页部署指南/从零连接服务器并发布网页.md",
+    "02-技术与AI/云服务器/服务器基本信息命令.md",
+    "02-技术与AI/云服务器/华为云.md",
+    "02-技术与AI/云服务器/DeepFocus.md",
+    "02-技术与AI/云服务器/qq_xiaoqi_bot部署说明.md",
+    "02-技术与AI/云服务器/website-styles部署与同步说明.md",
+    "02-技术与AI/50-语雀工具/语雀公开文档一键下载至本地.md",
+    "02-技术与AI/40-Git/Git/github凭据.md",
+    "02-技术与AI/40-Git/Git/gitee凭据.md",
+    "02-技术与AI/40-Git/新建文件夹",
+    "02-技术与AI/40-Git/github凭据.md",
+    "02-技术与AI/40-Git/gitee凭据.md",
+    "02-技术与AI/20-通用开发手册/平台接口调用手册/钉钉开发者平台接口.md",
+    "02-技术与AI/云服务器/新手网页部署指南",
+    "02-技术与AI/云服务器/fishingKiln部署与同步",
+    "02-技术与AI/云服务器",
+    "02-技术与AI/30-云服务器与部署/云服务器/qq_xiaoqi_bot部署说明.md",
+    "02-技术与AI/30-云服务器与部署/云服务器/服务器基本信息命令.md",
+    "02-技术与AI/30-云服务器与部署/云服务器/华为云.md",
+    "02-技术与AI/30-云服务器与部署/云服务器/DeepFocus.md",
+    "99-附件/Pasted image 20260122222600.png",
+    "99-附件/Pasted image 20260501010726.png",
+    "99-附件/Recording 20251203095333.m4a",
+    "99-附件/Pasted image 20260425211013.png",
+    "99-附件/82d4028dca4d38c310a048b3f72e2844.png",
+    "03-工作/20-氚云/开发手册/氚云帮助手册",
+    "02-技术与AI/20-通用开发手册/平台接口调用手册",
+    "02-技术与AI/20-通用开发手册/技术笔记",
+    "02-技术与AI/10-AI项目开发/codex",
     "主仓库/09-附件/82d4028dca4d38c310a048b3f72e2844.png",
     "主仓库/09-附件/Pasted image 20260501010726.png",
     "主仓库/09-附件/Pasted image 20260122222600.png",
