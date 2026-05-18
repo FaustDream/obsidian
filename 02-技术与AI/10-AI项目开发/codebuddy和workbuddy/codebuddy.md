@@ -1,0 +1,6 @@
+想要使用codebuddy的自定义模型设置。
+需要将其切换成国际版的codebuddy。cn版不能自定义模型。
+有免费的API或者自己购买的API就使用国际版的codebuddy。
+有签到领取的免费额度，就使用cn版的codebuddy。
+cn版的codebuddy和workbuddy额度共用。
+国际版的codebuddy额度独立。
