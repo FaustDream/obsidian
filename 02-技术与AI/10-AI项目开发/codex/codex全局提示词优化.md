@@ -5,7 +5,7 @@
 ## 环境配置
 
 - **文件编码**：`UTF-8`（不可修改）
-- PowerShell ：`PowerShell 7.6.1，不可使用到 Windows PowerShell 5`。
+- PowerShell ：`PowerShell 7，不可使用到 Windows PowerShell 5`。
 
 ## 指令优先级
 
